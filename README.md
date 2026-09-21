@@ -7,7 +7,7 @@ Add important people to make sure you never miss a notification from them. See y
 
 <img width="1122" height="1402" alt="Apps v2" src="https://github.com/user-attachments/assets/1c66e831-6845-4198-8162-6576c4a56a28" />
 
-<img width="1122" height="1402" alt="Widgets v2" src="https://github.com/user-attachments/assets/237c08ec-12a9-4ccf-ae60-253dc822ab6a" />
+<img width="1122" height="1402" alt="Widgets v2" src="https://github.com/user-attachments/assets/f3ae17ec-ba96-4c25-b174-d5c789e04deb" />
 
 
 More features to come.
