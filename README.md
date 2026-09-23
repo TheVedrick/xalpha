@@ -11,3 +11,12 @@ Add important people to make sure you never miss a notification from them. See y
 
 
 More features to come.
+---------------------------
+Outlook Missing Calendars:
+
+If you don't see your calendars from Outlook, you need to do the following:
+1 - Open Outlook
+2 - Open "Settings" in the Outlook app
+3 - Under "General" section, click "Calendar"
+4 - Open "Sync calendars"
+5 - Enable the missing calendars.
