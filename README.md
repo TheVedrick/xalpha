@@ -1,6 +1,10 @@
 X \ Alpha
 
 Created as a mix between new age and minimal approach. Settings have more elegant themes, hide apps, etc.
+> Free $$$
+> Elegant
+> No Ads
+> Professional
 
 <img width="300" height="580" alt="Screenshot_20260925_105540_X Alpha" src="https://github.com/user-attachments/assets/3ea075fe-b029-476f-bf1d-ec119679c383" />
 
