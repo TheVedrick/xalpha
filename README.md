@@ -2,12 +2,14 @@ X \ Alpha
 
 Created as a mix between new age and minimal approach. Settings have more elegant themes, hide apps, etc.
 
-<img width="1122" height="1402" alt="Home v2" src="https://github.com/user-attachments/assets/b3861ee8-ef95-4e72-995a-4b4e3774816e" />
+<img width="1440" height="3120" alt="Screenshot_20260925_105540_X Alpha" src="https://github.com/user-attachments/assets/3ea075fe-b029-476f-bf1d-ec119679c383" />
+
 Add important people to make sure you never miss a notification from them. See your next calendar event at the bottom.
+<img width="1440" height="3120" alt="Screenshot_20260925_105408_X Alpha" src="https://github.com/user-attachments/assets/061dc4e7-9edc-4ea5-a3cc-19e5932ba5ea" />
+<img width="1440" height="3120" alt="Screenshot_20260925_105431_X Alpha" src="https://github.com/user-attachments/assets/0847e41e-522e-42db-a042-657da1e67e85" />
+<img width="1440" height="3120" alt="Screenshot_20260925_105506_X Alpha" src="https://github.com/user-attachments/assets/dfd6deed-28ff-4e21-8d9e-6c98446ecc43" />
 
-<img width="1122" height="1402" alt="Apps v2" src="https://github.com/user-attachments/assets/1c66e831-6845-4198-8162-6576c4a56a28" />
 
-<img width="1122" height="1402" alt="Widgets v2" src="https://github.com/user-attachments/assets/f3ae17ec-ba96-4c25-b174-d5c789e04deb" />
 
 
 More features to come.
